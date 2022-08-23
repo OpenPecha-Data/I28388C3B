@@ -7,6 +7,10 @@ last_modified: '2022-07-27T11:24:23.290825'
 parser: null
 source_metadata:
   title: Commentary
+  base:
+    B1B4:
+      title: Chonjuk Commentary
+      base_file: B1B4.txt
 statistics: {}
 quality: {}
 copyright:
